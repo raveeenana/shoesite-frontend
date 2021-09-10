@@ -1,0 +1,2879 @@
+/*media query*/
+
+@media only screen and (min-width: 1300px) and (max-width: 1920px){
+/*-------------------checkout page------------*/
+    .shippingline2{display: none;}
+    .hr2{display: none;}
+    /*-------------------end checkout page------------*/
+
+/*-------------------start aboutus page------------*/
+    .cdimg_01{object-fit: cover;
+      height: 640px;}
+  /*-------------------end aboutus page------------*/
+   /*-------start women men sale page-------*/
+   .btngroupspace {
+    position: relative;
+   
+    display: none;
+    vertical-align: middle;
+    margin-top: 20px;
+  }
+  /*-------end women men sale page-------*/
+
+  /*single product view page*/
+  .viewonlyfoesmalldevices{display: none;}
+   /*end single product view page*/
+   }
+
+   @media only screen and (min-width: 1230px) and (max-width: 1300px){
+     /*-------------------checkout page------------*/
+    .shippingline2{display: none;}
+    .hr2{display: none;}
+    /*-------------------end checkout page------------*/
+
+/*-------------------start aboutus page------------*/
+    .cdimg_01{object-fit: cover;
+      height: 640px;}
+  /*-------------------end aboutus page------------*/
+    /*-------start women men sale page-------*/
+   .shoelineimg{
+     object-fit: cover;
+     height: 230px;
+   }
+   .card-deck .cardw {
+  
+     margin-right: 20px;
+   
+     margin-left: 20px;
+   }
+   .aboutusmarginwome h1 {
+     margin-top: 400px;
+     margin-bottom: 15px;
+ }
+ .btngroupspace {
+   position: relative;
+  
+   display: none;
+   vertical-align: middle;
+   margin-top: 20px;
+ }
+     /*-------end women men sale page-------*/
+
+      /*-------------favorite------------*/
+ 
+ 
+ .summersale h2 {
+  font-family: candara;
+  font-size: 5.4rem;
+  background: rgba(0, 0, 0, 0.466);
+  width: 600px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.summersale h3 {font-weight: normal;}
+.size20{font-size: 3rem;}
+      /*-------------favorite------------*/
+
+
+
+      /*single product view page*/
+  .viewonlyfoesmalldevices{display: none;}
+  /*end single product view page*/
+/*-----------------home page-------------*/
+  .card-deck .shoes-3 {
+    margin-right: 12px;
+    margin-left: 12px;
+}
+  /*-----------------home page-------------*/
+ }
+
+@media only screen and (min-width: 1200px) and (max-width: 1230px){
+  
+  
+    .searchbtn {
+    
+      width: 170px;
+      height: 43px;
+    
+    }
+      /*-------------------checkout page------------*/ 
+    .shippingline2{display: none;}
+    .hr2{display: none;}
+     /*-------------------end checkout page------------*/
+
+/*-------------------start aboutus page------------*/
+     .overlay_02 {
+      border: none;
+      background: rgba(121, 121, 121, 0.356);
+      height: 100%;
+      clip-path: polygon(0% 0%, 0% 400%,57% 0%, 0% 0%);
+      padding: 0;
+  }
+    /*-------------------end aboutus page------------*/
+      /*-------start women men sale page-------*/
+  .shoelineimg{
+    object-fit: cover;
+    height: 230px;
+  }
+  .card-deck .cardw {
+ 
+    margin-right: 20px;
+  
+    margin-left: 20px;
+  }
+  
+   
+    .aboutusmarginwome h1 {
+      margin-top: 380px;
+      margin-bottom: 15px;
+  }
+  .btngroupspace {
+    position: relative;
+   
+    display: none;
+    vertical-align: middle;
+    margin-top: 20px;
+  }
+       /*-------end women men sale page-------*/
+
+
+       /*---------favorite--------------*/
+ .summersale h2 {
+  font-family: candara;
+  font-size: 5.4rem;
+  background: rgba(0, 0, 0, 0.466);
+  width: 600px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.summersale h3 {font-weight: normal;}
+.size20{font-size: 3rem;}
+  /*---------favorite--------------*/
+
+  /*single product view page*/
+  .viewonlyfoesmalldevices{display: none;}
+   /*end single product view page*/
+
+   /*-----------------home page-------------*/
+  .card-deck .shoes-3 {
+    margin-right: 12px;
+    margin-left: 12px;
+}
+ 
+   .cardimageho {
+    height: 350px;
+    object-fit: cover;
+  }
+.topic {
+  font-size: 125px;
+
+}
+.searchbtn {
+
+width: 170px;
+height: 43px;
+
+}
+
+.womenmenbtn {
+
+width: 175px;
+height: 50px
+}
+
+   /*-----------home page--------------*/
+      }
+      
+    
+      @media only screen and (min-width: 1042px) and (max-width: 1200px){
+        
+        
+          .searchbtn {
+    
+            width: 150px;
+            height: 40px;
+          
+          }
+          
+         
+    
+      .searchform .form-control {
+        width: 400px;
+        height: 46px;
+        
+        margin-left: 4.5rem;
+    }
+         /*------------------------------Start login page-------------------------*/
+         .label1 {
+            margin-bottom: 0;
+            font-size: smaller;
+        }
+          /*------------------------------End login page-------------------------*/
+          /*------------------------------ start reset your password-------------------------*/
+         .hisize {
+          font-size: 2.2rem;
+      }
+       /*------------------------------ End reset your password-------------------------*/
+
+
+          /*-------------------checkout page------------*/ 
+       .shippingline2{display: none;}
+       .hr2{display: none;}
+       /*-------------------end checkout page------------*/ 
+
+       /*-------------------start aboutus page------------*/
+       .aboutusmargin h1 {
+        margin-top: 160px;
+        margin-bottom: 25px;
+    }
+    .overlay_02 {
+      border: none;
+      background: rgba(121, 121, 121, 0.356);
+      height: 100%;
+      clip-path: polygon(0% 0%, 0% 400%,58% 0%, 0% 0%);
+      padding: 0;
+    }
+    /*-------------------end aboutus page------------*/
+        /*-------start women men sale page-------*/
+        .shoelineimg{
+          object-fit: cover;
+          height: 225px;
+        }
+        .card-deck .cardw {
+       
+          margin-right: 1px;
+        
+          margin-left: 1px;
+        }
+        
+        
+    .aboutusmarginwome h1 {
+      margin-top: 360px;
+      margin-bottom: 9px;
+  }
+  .overlay_wome {
+    border: none;
+    
+     height: 100%;
+     background-color: rgba(0,0,0,0.5);
+     clip-path:inset(50% 50% 5% 0%);
+     padding: 0;
+    }
+    .btngroupspace {
+      position: relative;
+     
+      display: none;
+      vertical-align: middle;
+      margin-top: 20px;
+    }
+     /*-------end women men sale page-------*/
+
+     /*----------favorite------------*/
+ .summersale h2 {
+  font-family: candara;
+  font-size: 5.4rem;
+  background: rgba(0, 0, 0, 0.466);
+  width: 600px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.summersale h3 {font-weight: normal;}
+.size20{font-size: 3rem;}
+   /*----------favorite------------*/
+
+   /*single product view page*/
+  .viewonlyfoesmalldevices{display: none;}
+  /*end single product view page*/
+
+
+/*-----------home page----------*/  
+
+.card-deck .shoes-3 {
+  margin-right: 12px;
+  margin-left: 12px;
+}
+
+  .topic {
+    font-size: 6.5rem;}
+
+    .cardbodybg h3 {
+      font-size: 55px;}
+
+    
+    
+    
+    .womenmenbtn {
+     
+      width: 150px;
+      height: 47px;
+      font-size: 16px;  
+  }
+  .padsearch h5 {
+    font-size: medium;
+}
+.padsearch p {
+  
+  font-size: small;
+}
+.padsearch {padding-bottom: 130px;}
+
+.searchform .form-control {
+  width: 400px;
+  height: 46px;
+  
+  margin-left: 4.5rem;
+}
+
+.image9 {
+height: 350px;
+object-fit: cover;
+}
+.image8 {
+height: 350px;
+object-fit: cover;
+}
+.cardimageho {
+height: 330px;
+object-fit: cover;
+}
+.effect1 img {
+vertical-align: middle;
+border-style: none;
+object-fit: cover;
+height: 200px;
+}
+.hovereffect h5 {
+
+margin: 308px 0 0;
+}
+/*-----------home page----------*/  
+      }
+    
+    
+    @media only screen and (min-width: 992px) and (max-width: 1042px){
+       
+    .searchbtn {
+      width: 118px;
+      height: 35px;
+    }
+    
+    
+    
+    
+    .searchform .form-control {
+      width: 350px;
+      height: 46px;
+      
+      margin-left: 6.8rem;
+    }
+    /*------------------------------Start login page-------------------------*/
+    .label1 {
+        margin-bottom: 0;
+        font-size: smaller;
+    }
+         /*------------------------------End login page-------------------------*/
+          /*------------------------------ start reset your password-------------------------*/
+     .hisize {
+      font-size: 2.2rem;
+  }
+   /*------------------------------ End reset your password-------------------------*/
+   /*-------------------checkout page------------*/ 
+   .shippingline2{display: none;}
+   .hr2{display: none;}
+   
+   /*-------------------end checkout page------------*/ 
+
+       /*-------------------start aboutus page------------*/
+   .aboutusmargin h1 {
+    margin-top: 160px;
+    margin-bottom: 20px;
+}
+.overlay_02 {
+  border: none;
+  background: rgba(121, 121, 121, 0.356);
+  height: 100%;
+  clip-path: polygon(0% 0%, 0% 400%,57% 0%, 0% 0%);
+  padding: 0;
+}
+ /*-------------------end aboutus page------------*/
+      /*-------start women men sale page-------*/
+      .shoelineimg{
+        object-fit: cover;
+        height: 225px;
+      }
+      .card-deck .cardw {
+     
+        margin-right: 1px;
+      
+        margin-left: 1px;
+      }
+    
+    
+    
+    .aboutusmarginwome h1 {
+      margin-top: 340px;
+      margin-bottom: 9px;
+  }
+  .overlay_wome {
+    border: none;
+    
+     height: 100%;
+     background-color: rgba(0,0,0,0.5);
+     clip-path:inset(50% 50% 5% 0%);
+     padding: 0;
+    }
+    .btngroupspace {
+      position: relative;
+     
+      display: none;
+      vertical-align: middle;
+      margin-top: 20px;
+    }
+     /*-------end women men sale page-------*/
+
+     /*----------favorite------------*/
+ .summersale h2 {
+  font-family: candara;
+  font-size: 5rem;
+  background: rgba(0, 0, 0, 0.466);
+  width: 560px;
+  padding-right: 10px;
+  padding-left: 10px;
+ }
+.summersale h3 {font-weight: normal;
+font-size: 20px;}
+.size20{font-size: 2.7rem;}
+ /*----------favorite------------*/
+
+ /*single product view page*/
+ .viewonlyfoesmalldevices{display: none;}
+ /*end single product view page*/
+
+/*-------------home page-----------------*/
+.card-deck .shoes-3 {
+  margin-right: 12px;
+  margin-left: 12px;
+}
+
+ .topic {
+  font-size: 6.2rem;
+}
+
+.padsearch h5 {
+  font-size: medium;
+}
+.padsearch p {
+
+font-size: small;
+}
+.padsearch {padding-bottom: 100px;}
+
+.womenmenbtn {
+
+  width: 140px;
+  height: 44px;
+ 
+  font-size: 15px;
+
+}
+.cardbodybg h3 {
+  font-size: 3.1rem;}
+
+  .cardimageho {
+    height: 300px;
+    object-fit: cover;
+}
+
+.effect1 img {
+  vertical-align: middle;
+  border-style: none;
+  object-fit: cover;
+  height: 200px;
+}
+.saleimages {
+  padding-top: 25px;
+}
+.imageline {
+  padding-top: 25px;
+}
+/*-------------home page-----------------*/
+      }
+
+
+
+
+
+
+
+
+
+
+
+        /*-------------------OFF------------*   
+      @media only screen and (min-width: 990px) and (max-width: 992px){
+        .navcenter1 {display: block;
+        text-align: center;}
+          /*------------------------------login page-------------------------*
+          .label1 {
+            margin-bottom: 0;
+            font-size: smaller;
+        }
+           /*------------------------------End login page-------------------------*/
+  
+   /*------------------------------ start reset your password-------------------------*
+   .hisize {
+    font-size: 2.2rem;
+  }
+  /*------------------------------ End reset your password-------------------------*/
+
+    /*-------------------checkout page------------*
+    .shippingline2{display: none;}
+    .hr2{display: none;}
+    
+    /*-------------------end checkout page------------*/ 
+    
+        /*-------------------OFF------------*/  
+
+
+
+
+
+/*
+
+    @media only screen and (min-width: 766px) and (max-width: 992px){
+      
+      .navcenter1 {display: block;
+      text-align: center;}
+      
+      .searchbtn {
+      
+        width: 120px;
+        height: 30px;
+      
+        font-size: small;
+    }
+      .searchform .form-control {
+        width: 300px;
+        height: 40px;
+        margin-left: 5.4rem;
+    }
+    .Footeremail button {
+     
+      width: 170px;
+      height: 40px;
+     
+    }
+    
+      /*------------------------------Start login page-------------------------*
+  
+  
+  .label1 {
+    margin-bottom: 0;
+    font-size: smaller;
+  }
+  /*-----------------------------end loging page-----------------*/
+    /*------------------------------ start reset your password-------------------------*
+   .hisize {
+    font-size: 2.2rem;
+}
+ /*------------------------------ End reset your password-------------------------*/
+
+
+  /*------------------------------ start checkout page-------------------------*/
+  /*checkout form 3*
+  .order-reviewimg{object-fit: cover;
+    height: 130px;}
+    .shippingline1{display: none;}
+    .hr1{display: none;}
+     /*------------------------------ End checkout page-------------------------*
+
+             /*-------------------start aboutus page------------*
+     .btntheme_01{
+      color: #fff;
+      background-color: rgb(255,0,0);
+      text-align: center;
+      margin-top:10px;
+      font-size:medium;
+  }
+  
+  .btntheme_01:hover{
+    background-color:#e74c3c;
+    color: #fff;
+  }
+  .aboutusmargin h1 {
+    margin-top: 150px;
+    margin-bottom: 15px;
+    
+  }
+  .overlay_02 {
+    border: none;
+    background: rgba(121, 121, 121, 0.356);
+    height: 100%;
+    clip-path: none;
+    padding: 0;
+  }
+         /*-------------------end aboutus page------------*
+    }
+   */
+    
+    @media only screen and (min-width: 882px) and (max-width: 992px){
+      .navcenter1 {display: block;
+        text-align: center;}
+        
+        .searchbtn {
+        
+          width: 120px;
+          height: 30px;
+        
+          font-size: small;
+      }
+        .searchform .form-control {
+          width: 300px;
+          height: 40px;
+          margin-left: 5.4rem;
+      }
+      .Footeremail button {
+       
+        width: 170px;
+        height: 40px;
+       
+      }
+      
+        /*------------------------------Start login page-------------------------*/
+    
+    
+    .label1 {
+      margin-bottom: 0;
+      font-size: smaller;
+    }
+    /*-----------------------------end loging page-----------------*/
+      /*------------------------------ start reset your password-------------------------*/
+     .hisize {
+      font-size: 2.2rem;
+  }
+   /*------------------------------ End reset your password-------------------------*/
+  
+  
+    /*------------------------------ start checkout page-------------------------*/
+    /*checkout form 3*/
+    .order-reviewimg{object-fit: cover;
+      height: 130px;}
+      .shippingline1{display: none;}
+      .hr1{display: none;}
+       /*------------------------------ End checkout page-------------------------*/
+  
+               /*-------------------start aboutus page------------*/
+       .btntheme_01{
+        color: #fff;
+        background-color: rgb(255,0,0);
+        text-align: center;
+        margin-top:10px;
+        font-size:medium;
+    }
+    
+    .btntheme_01:hover{
+      background-color:#e74c3c;
+      color: #fff;
+    }
+    .aboutusmargin h1 {
+      margin-top: 150px;
+      margin-bottom: 15px;
+      
+    }
+    .overlay_02 {
+      border: none;
+      background: rgba(121, 121, 121, 0.356);
+      height: 100%;
+      clip-path: none;
+      padding: 0;
+    }
+           /*-------------------end aboutus page------------*/
+            /*-------start women men sale page-------*/
+      .shoelineimg{
+        object-fit: cover;
+        height: 186px;
+      }
+      .card-deck .cardw {
+     
+        margin-right: 1px;
+      
+        margin-left: 1px;
+      }
+      .carddata {
+       
+        padding: 0.3rem;
+        padding-top: 0.3rem;
+        padding-right: 0.3rem;
+        padding-bottom: 0.3rem;
+        padding-left: 0.3rem;
+        
+    }
+    .card-body small {
+      font-size: 70%;
+      margin-bottom:2px ;
+    }
+    .card-body .price {
+      margin-bottom: 2px;
+     
+        text-align: center;
+    }
+    
+     
+    .aboutusmarginwome h1 {
+      margin-top: 308px;
+      margin-bottom: 5px;
+  }
+  .overlay_wome {
+    border: none;
+    
+     height: 100%;
+     background-color: rgba(0,0,0,0.5);
+     clip-path:inset(50% 50% 2% 0%);
+     padding: 0;
+    }
+    
+    .allfilter {
+      font-size: 1.4rem;}
+    .btngroupspace {
+      position: relative;
+     
+      display: none;
+      vertical-align: middle;
+      margin-top: 20px;
+    }
+   .list-group-item {
+     
+      font-size: small;
+  }
+  /*-------end women men sale page-------*/
+
+
+  /*------------favorite----------------*/
+          
+ .summersale h2 {
+  font-family: candara;
+  font-size: 4.3rem;
+  background: rgba(0, 0, 0, 0.466);
+  width: 505px;
+  padding-right: 10px;
+  padding-left: 10px;
+ }
+.summersale h3 {font-weight: normal;
+font-size: 20px;}
+.size20{font-size: 2.2rem;}
+  /*------------favorite----------------*/
+
+  /*single product view page*/
+  .viewonlyfoesmalldevices{display: none;}
+   /*end single product view page*/
+
+
+
+
+   /*--------------home page------------*/
+   .card-deck .shoes-3 {
+    margin-right: 12px;
+    margin-left: 12px;
+}
+ 
+   .card-deck .cardshoe {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+   .topic {
+    font-size: 5rem;
+  }
+  .cardimageho {
+    height: 260px;
+    object-fit: cover;
+}
+
+  .padsearch {padding-bottom: 95px;}
+
+  .searchbtn {
+  
+    width: 120px;
+    height: 30px;
+  
+    font-size: small;
+}
+
+.padsearch h5 {
+  font-size: smaller;
+}
+
+.padsearch p {
+
+  font-size: small;
+  }
+
+  .womenmenbtn {
+   
+    width: 120px;
+    height: 40px;
+  font-size: 13px;
+margin-bottom:2px ;
+margin-right: 15px;
+  margin-left: 15px;
+  }
+  .saleimages {
+    padding-top: 55px;
+}
+  .cardimageho {
+    height: 250px;
+    object-fit: cover;
+}
+.cardbodybg h3 {
+  font-size: 34px;}
+  .image8 {
+    height: 270px;
+    object-fit: cover;
+}
+.image9 {
+  height: 270px;
+  object-fit: cover;
+}
+  .card1{padding-bottom: 0px;}
+
+  .shoelineimg {
+    object-fit: cover;
+    height: 200px;
+}
+
+.cartt1 {
+  
+  size: auto;
+  padding-bottom: 13px;
+  padding-top: 3px;
+  margin-bottom: px
+
+}
+.card-body small {
+  font-size: 60%;
+  margin-bottom:2px ;
+}
+.card-body .price {
+  margin-bottom: 2px;
+ 
+    text-align: center;
+}
+
+
+
+.card-body p {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.newarrivals {
+  font-size: 2rem;}
+
+ 
+.effect1 img {
+  vertical-align: middle;
+  border-style: none;
+  object-fit: cover;
+  height: 150px;
+  padding-left: 7px;
+  margin-bottom: 20px;
+}
+
+.containersale{
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+  margin-top: -40px;
+}
+.imageline {
+  padding-top: 55px;
+  padding-right: 3px;
+  padding-left: 3px;
+  padding-bottom: 23px;
+}
+
+.lgcard{position: relative;
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 10px;
+}
+
+.bb {
+
+  font-size: 25px;
+}
+.hovereffect h5 {
+
+margin: 220px 0 0;
+} 
+.hovereffect a.info {
+
+margin: 65px 0 0;
+padding: 7px 14px;
+}
+.scaled{
+
+transform: scale(0.98,1); 
+
+
+}
+.hovereffect button {
+ 
+margin-top: 20px;
+
+margin:65px 0 0;
+  padding:7px 14px;
+}
+ /*--------------home page------------*/
+    }
+
+
+    @media only screen and  (min-width: 768px) and (max-width: 882px){
+      .navcenter1 {display: block;
+        text-align: center;}
+        
+        .searchbtn {
+        
+          width: 120px;
+          height: 30px;
+        
+          font-size: small;
+      }
+        .searchform .form-control {
+          width: 300px;
+          height: 40px;
+          margin-left: 5.4rem;
+      }
+      .Footeremail button {
+       
+        width: 170px;
+        height: 40px;
+       
+      }
+      
+        /*------------------------------Start login page-------------------------*/
+    
+    
+    .label1 {
+      margin-bottom: 0;
+      font-size: smaller;
+    }
+    /*-----------------------------end loging page-----------------*/
+      /*------------------------------ start reset your password-------------------------*/
+     .hisize {
+      font-size: 2.2rem;
+  }
+   /*------------------------------ End reset your password-------------------------*/
+  
+  
+    /*------------------------------ start checkout page-------------------------*/
+    /*checkout form 3*/
+    .order-reviewimg{object-fit: cover;
+      height: 130px;}
+      .shippingline1{display: none;}
+      .hr1{display: none;}
+       /*------------------------------ End checkout page-------------------------*/
+  
+               /*-------------------start aboutus page------------*/
+       .btntheme_01{
+        color: #fff;
+        background-color: rgb(255,0,0);
+        text-align: center;
+        margin-top:10px;
+        font-size:medium;
+    }
+    
+    .btntheme_01:hover{
+      background-color:#e74c3c;
+      color: #fff;
+    }
+    .aboutusmargin h1 {
+      margin-top: 150px;
+      margin-bottom: 15px;
+      
+    }
+    .overlay_02 {
+      border: none;
+      background: rgba(121, 121, 121, 0.356);
+      height: 100%;
+      clip-path: none;
+      padding: 0;
+    }
+           /*-------------------end aboutus page------------*/
+           
+/*-------start women men sale page-------*/
+      .shoelineimg{
+        object-fit: cover;
+        height: 186px;
+      }
+      .card-deck .cardw {
+     
+        margin-right: 1px;
+      
+        margin-left: 1px;
+      }
+      .carddata {
+       
+        padding: 0.3rem;
+        padding-top: 0.3rem;
+        padding-right: 0.3rem;
+        padding-bottom: 0.3rem;
+        padding-left: 0.3rem;
+        
+    }
+    .card-body small {
+      font-size: 70%;
+      margin-bottom:2px ;
+    }
+    .card-body .price {
+      margin-bottom: 2px;
+     
+        text-align: center;
+    }
+    
+    
+    .aboutusmarginwome h1 {
+      margin-top: 260px;
+      margin-bottom: 3px;
+  }
+  .overlay_wome {
+    border: none;
+    
+     height: 100%;
+     background-color: rgba(0,0,0,0.5);
+     clip-path:inset(50% 50% 2% 0%);
+     padding: 0;
+    }
+
+    .allfilter {
+      font-size: 1.2rem;}
+
+      .btngroupspace {
+        position: relative;
+       
+        display: none;
+        vertical-align: middle;
+        margin-top: 20px;
+      }
+      .list-group-item {
+     
+        font-size: small;
+    }
+     /*-------end women men sale page-------*/
+
+      /*--------------favorite-------------*/
+          
+ .summersale h2 {
+  font-family: candara;
+  font-size: 4rem;
+  background: rgba(0, 0, 0, 0.466);
+  width: 450px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 15px;
+  
+ }
+.summersale h3 {font-weight: normal;
+font-size: 17px;
+}
+
+.size20{font-size: 1.8rem;}
+   /*--------------favorite-------------*/
+
+  /*single product view page*/
+   .productviewdetails{margin-left: 30px;
+    margin-top: 15px;}
+
+
+.productimgcenter{
+
+
+margin-left: 20%;
+}
+
+.productimgcenter1{
+
+
+margin-left: 22%;
+}
+.viewonlyfoesmalldevices{display: none;}
+  /*single product view page*/
+
+  /*--------------home page-----------*/
+  .card-deck .shoes-3 {
+    margin-right: 12px;
+    margin-left: 12px;
+}
+ 
+  
+  .topic {
+    font-size: 5rem;
+  }
+  .cardimageho {
+    height: 260px;
+    object-fit: cover;
+}
+
+  .padsearch {padding-bottom: 95px;}
+
+  .searchbtn {
+  
+    width: 120px;
+    height: 30px;
+  
+    font-size: small;
+}
+
+.padsearch h5 {
+  font-size: smaller;
+}
+
+.padsearch p {
+
+  font-size: small;
+  }
+
+  .womenmenbtn {
+   
+    width: 120px;
+    height: 40px;
+  font-size: 13px;
+margin-bottom:2px ;
+margin-right: 15px;
+  margin-left: 15px;
+  }
+  .saleimages {
+    padding-top: 55px;
+}
+  .cardimageho {
+    height: 250px;
+    object-fit: cover;
+}
+.cardbodybg h3 {
+  font-size: 34px;}
+  .image8 {
+    height: 270px;
+    object-fit: cover;
+}
+.image9 {
+  height: 270px;
+  object-fit: cover;
+}
+  .card1{padding-bottom: 0px;}
+
+  .shoelineimg {
+    object-fit: cover;
+    height: 200px;
+}
+
+.cartt1 {
+  
+  size: auto;
+  padding-bottom: 13px;
+  padding-top: 3px;
+  margin-bottom: px
+
+}
+.card-body small {
+  font-size: 60%;
+  margin-bottom:2px ;
+}
+.card-body .price {
+  margin-bottom: 2px;
+ 
+    text-align: center;
+}
+
+
+
+.card-body p {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.newarrivals {
+  font-size: 2rem;}
+
+ 
+.effect1 img {
+  vertical-align: middle;
+  border-style: none;
+  object-fit: cover;
+  height: 150px;
+  padding-left: 7px;
+  margin-bottom: 20px;
+}
+
+.containersale{
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+  margin-top: -40px;
+}
+.imageline {
+  padding-top: 55px;
+  padding-right: 3px;
+  padding-left: 3px;
+  padding-bottom: 23px;
+}
+
+.lgcard{position: relative;
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 10px;
+}
+
+.bb {
+
+  font-size: 25px;
+}
+.hovereffect h5 {
+
+margin: 220px 0 0;
+} 
+.hovereffect a.info {
+
+margin: 65px 0 0;
+padding: 7px 14px;
+}
+.scaled{
+
+transform: scale(0.98,1); 
+
+
+}
+.hovereffect button {
+ 
+margin-top: 20px;
+
+margin:65px 0 0;
+  padding:7px 14px;
+}
+
+.card-deck .cardshoe {
+  -ms-flex: 1 0 0%;
+  flex: 1 0 0%;
+  margin-right: 15px;
+  margin-bottom: 0;
+  margin-left: 15px;
+}
+  /*--------------home page-----------*/
+    }
+    @media only screen and  (min-width: 765px) and (max-width: 768px){
+      .navcenter1 {display: block;
+        text-align: center;}
+        
+        .searchbtn {
+        
+          width: 120px;
+          height: 30px;
+        
+          font-size: small;
+      }
+        .searchform .form-control {
+          width: 300px;
+          height: 40px;
+          margin-left: 5.4rem;
+      }
+      .Footeremail button {
+       
+        width: 170px;
+        height: 40px;
+       
+      }
+      
+        /*------------------------------Start login page-------------------------*/
+    
+    
+    .label1 {
+      margin-bottom: 0;
+      font-size: smaller;
+    }
+    /*-----------------------------end loging page-----------------*/
+      /*------------------------------ start reset your password-------------------------*/
+     .hisize {
+      font-size: 2.2rem;
+  }
+   /*------------------------------ End reset your password-------------------------*/
+  
+  
+    /*------------------------------ start checkout page-------------------------*/
+    /*checkout form 3*/
+    .order-reviewimg{object-fit: cover;
+      height: 130px;}
+      .shippingline1{display: none;}
+      .hr1{display: none;}
+       /*------------------------------ End checkout page-------------------------*/
+  
+               /*-------------------start aboutus page------------*/
+       .btntheme_01{
+        color: #fff;
+        background-color: rgb(255,0,0);
+        text-align: center;
+        margin-top:10px;
+        font-size:medium;
+    }
+    
+    .btntheme_01:hover{
+      background-color:#e74c3c;
+      color: #fff;
+    }
+    .aboutusmargin h1 {
+      margin-top: 150px;
+      margin-bottom: 15px;
+      
+    }
+    .overlay_02 {
+      border: none;
+      background: rgba(121, 121, 121, 0.356);
+      height: 100%;
+      clip-path: none;
+      padding: 0;
+    }
+           /*-------------------end aboutus page------------*/
+
+            /*-------start women men sale page-------*/
+      .shoelineimg{
+        object-fit: cover;
+        height: 260px;
+      }
+      .meme {
+        margin-right: 70px;
+        margin-left: 70px;
+    }
+        
+        .overlay_wome {
+          border: none;
+          
+           height: 100%;
+           background-color: rgba(0,0,0,0.5);
+           clip-path:none;
+           padding: 0;
+          }
+          .aboutusmarginwome h1 {
+            margin-top: 150px;
+            margin-bottom: 3px;
+        }
+
+        .allfilter {
+          font-size: 1.2rem;}
+          .btngroupspace {
+            position: relative;
+           
+            display: inline-flex;
+            vertical-align: middle;
+            margin-top: 20px;
+          }
+          .btnsize{padding-top: 10px;}
+          .displayfilter{display: none;}
+          .fullsize{max-width: 100%;
+          flex: none;}
+          .btnsize button{ font-size:medium ;
+            border-radius: 0px;}
+               /*-------end women men sale page-------*/
+
+                 
+      /*---------------favorite-----------------*/
+          
+      .saleimglastrow{object-fit: cover;
+        height: 300px; }
+        
+ .summersale h2 {
+  font-family: candara;
+  font-size: 4rem;
+  background: rgba(0, 0, 0, 0.466);
+  width: 450px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 15px;
+  
+ }
+.summersale h3 {font-weight: normal;
+font-size: 17px;
+}
+
+.size20{font-size: 1.8rem;}
+   /*---------------favorite-----------------*/
+
+     /*single product view page*/
+ .productviewdetails{margin-left: 15px;
+  margin-top: 15px;}
+ 
+  .viewonlyfoesmalldevices{display: none;}
+    /*single product view page*/
+
+    /*----------------home page-------------------*/
+    .card-deck .shoes-3 {
+      margin-right: 10px;
+      margin-left: 10px;
+  }
+   
+  
+    .topic {
+      font-size: 5rem;
+    }
+    .cardimageho {
+      height: 260px;
+      object-fit: cover;
+  }
+  
+    .padsearch {padding-bottom: 95px;}
+  
+    .searchbtn {
+    
+      width: 120px;
+      height: 30px;
+    
+      font-size: small;
+  }
+  
+  .padsearch h5 {
+    font-size: smaller;
+  }
+  
+  .padsearch p {
+  
+    font-size: small;
+    }
+  
+    .womenmenbtn {
+     
+      width: 120px;
+      height: 40px;
+    font-size: 13px;
+  margin-bottom:2px ;
+  margin-right: 15px;
+    margin-left: 15px;
+    }
+    .saleimages {
+      padding-top: 55px;
+  }
+    .cardimageho {
+      height: 250px;
+      object-fit: cover;
+  }
+  .cardbodybg h3 {
+    font-size: 34px;}
+    .image8 {
+      height: 270px;
+      object-fit: cover;
+  }
+  .image9 {
+    height: 270px;
+    object-fit: cover;
+  }
+    .card1{padding-bottom: 0px;}
+  
+    .shoelineimg {
+      object-fit: cover;
+      height: 200px;
+  }
+  
+  .cartt1 {
+    
+    size: auto;
+    padding-bottom: 13px;
+    padding-top: 3px;
+    margin-bottom: px
+  
+  }
+  .card-body small {
+    font-size: 60%;
+    margin-bottom:2px ;
+  }
+  .card-body .price {
+    margin-bottom: 2px;
+   
+      text-align: center;
+  }
+  
+  .card-deck .cardshoe {
+    -ms-flex: 1 0 0%;
+    flex: 1 0 0%;
+    margin-right: 65px;
+    margin-bottom: 0;
+    margin-left: 65px;
+}
+  
+  .card-body p {
+    margin-top: 0;
+    margin-bottom: 8px;
+  }
+  .newarrivals {
+    font-size: 2rem;}
+  
+    
+  .effect1 img {
+    vertical-align: middle;
+    border-style: none;
+    object-fit: cover;
+    height: 150px;
+    padding-left: 7px;
+    margin-bottom: 20px;
+  }
+  
+  .containersale{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: -40px;
+  }
+  .imageline {
+    padding-top: 55px;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-bottom: 23px;
+}
+  
+  .lgcard{position: relative;
+      width: 100%;
+      padding-right: 0px;
+      padding-left: 10px;
+  }
+  
+  .bb {
+  
+    font-size: 25px;
+}
+.hovereffect h5 {
+ 
+  margin: 220px 0 0;
+} 
+.hovereffect a.info {
+ 
+  margin: 65px 0 0;
+  padding: 7px 14px;
+}
+.scaled{
+  
+  transform: scale(0.98,1); 
+
+
+}
+.hovereffect button {
+   
+  margin-top: 20px;
+ 
+  margin:65px 0 0;
+    padding:7px 14px;
+}
+    /*----------------home page-------------------*/
+  }
+    
+    
+    
+     
+    
+    @media only screen and  (min-width: 615px) and (max-width: 765px){
+      .navcenter1 {display: block;
+        text-align: center;}
+       
+      
+    .Footeremail button {
+      width: 130px;
+      height: 38px;
+    }
+    .searchform .form-control {
+      width: 250px;
+      height: 38px;
+      margin-left: 4.2rem;
+    }
+    
+      /*------------------------------ start login page-------------------------*/
+      .middlelineforgetcreate{
+        padding-right: 15px;
+        padding-left: 0px;
+    }
+    
+    .label1 {
+      margin-bottom: 0;
+      font-size: smaller;
+    }
+      /*------------------------------ End login page-------------------------*/
+
+         /*------------------------------ start reset your password-------------------------*/
+    
+       .shoelogopaddingloginre {
+              
+        font-size: 0.8rem;}
+      .hisize {
+        font-size: 2rem;
+    }
+        /*------------------------------ End reset your password-------------------------*/
+
+
+
+  /*------------------------------ start checkout page-------------------------*/
+         /*checkout form 3*/
+      .order-reviewimg{object-fit: cover;
+        height: 130px;}
+        .shoesize34line{display: none;}
+        .shippingline1{display: none;}
+        .hr1{display: none;}
+        .sub{font-size: smaller;}
+        
+  /*------------------------------ end checkout page-------------------------*/
+    
+   /*-------------------start aboutus page------------*/
+  .btntheme_01{
+    color: #fff;
+    background-color: rgb(255,0,0);
+    text-align: center;
+    margin-top:10px;
+    font-size: small;
+}
+  .overlay_02 {
+    border: none;
+    background: rgba(121, 121, 121, 0.356);
+    height: 100%;
+    clip-path: none;
+    padding: 0;
+  }
+  .aboutusmargin h1 {
+    margin-top: 90px;
+    margin-bottom: 8px;
+}
+.marginline1 {
+  font-size: 0.8rem;
+  
+  }
+   /*-------------------end aboutus page------------*/
+      /*-------start women men sale page-------*/
+      .filtershort{
+        padding-right: 140px;
+        padding-left: 140px;
+    }
+  .shoelineimg{
+    object-fit: cover;
+    height: 250px;
+  }
+  .card-deck .cardw {
+    margin-right: 70px;
+    margin-left: 70px;
+}
+      
+    .overlay_wome {
+      border: none;
+      
+       height: 100%;
+       background-color: rgba(0,0,0,0.5);
+       clip-path:none;
+       padding: 0;
+      }
+      .aboutusmarginwome h1 {
+        margin-top: 150px;
+        margin-bottom: 3px;
+    }
+    .btngroupspace {
+      position: relative;
+     
+      display: inline-flex;
+      vertical-align: middle;
+      margin-top: 20px;
+    }
+    
+    .displayfilter{display: none;}
+    .btnsize{padding-top: 10px;}
+    .dropdown-menu {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      z-index: 1000;
+      display: none;
+      float: left;
+      min-width: 4rem;
+      padding: .5rem 0;
+      margin: .125rem 0 0;
+      font-size: 1rem;
+      color: #212529;
+      text-align: left;
+      list-style: none;
+      background-color: #fff;
+      background-clip: padding-box;
+      border: 1px solid rgba(0,0,0,.15);
+      border-radius: .25rem;
+  }
+    .dropdown-item {
+     
+      font-size: smaller;
+  }
+  .btnsize button{ font-size:smaller ;
+    border-radius: 0px;}
+          /*-------end women men sale page-------*/
+
+           /*-----------favorite--------------------*/
+          
+      .saleimglastrow{object-fit: cover;
+        height: 250px; }
+        
+ .summersale h2 {
+  font-family: candara;
+  font-size: 3.5rem;
+  background: rgba(0, 0, 0, 0.466);
+  width: 400px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 15px;
+  
+ }
+.summersale h3 {font-weight: normal;
+font-size: 17px;
+}
+
+.size20{font-size: 1.8rem;}
+ /*-----------favorite--------------------*/
+  /*single product view page*/
+ .productviewdetails{margin-left: 15px;
+  margin-top: 15px;}
+  
+  .viewonlyfoesmalldevices{display: none;}
+    /*single product view page*/
+
+    /*---------------------home page----------------*/
+    .card-deck .shoes-3 {
+      margin-right: 10px;
+      margin-left: 10px;
+  }
+    .topic {
+      font-size: 4rem;
+     
+  }
+  
+  .padsearch {padding-bottom: 67px;}
+ 
+  
+  .padsearch h5 {
+    font-size: smaller;
+  }
+  
+  .padsearch p {
+  
+    font-size: x-small;
+    }
+  
+    .womenmenbtn {
+     
+      width: 120px;
+      height: 40px;
+    font-size: 13px;
+    margin-bottom: 3px;
+    margin-right: 13px;
+    margin-left: 13px;
+    }
+  .cardbodybg h3 {
+    font-size: 18px;}
+  
+    .clickherebutton{font-size: x-small;}
+  
+    .cardimageho {
+      height: 190px;
+      object-fit: cover;
+  }
+  
+  .image9 {
+    height: 200px;
+    object-fit: cover;
+  }
+  .image8 {
+    height: 200px;
+    object-fit: cover;
+  }
+  .hovereffect a.info {
+    
+    font-size: x-small;
+  }
+  
+  .imageline {
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 0px;
+  }
+  
+  .shoelineimg {
+    object-fit: cover;
+    height: 250px;
+  }
+  
+  .cartt1 {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+    text-align: left;
+  }
+  
+  
+  .scaled{
+  
+    transform: scale(1.04,1); 
+  
+  
+  }
+  .newarrivals {
+    font-size: 1.9rem;
+  }
+  .container12  {
+    width: 75%;
+    padding-right: 70px;
+    padding-left: 70px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .effect1 img {
+    display: block;
+    position: relative;
+    -webkit-transition: all 0.35s;
+    transition: all 0.35s;
+    object-fit: cover;
+    height: 120px;
+  }
+  .colsm4{position: relative;
+      width: 100%;
+      padding-right: 0px;
+      padding-left: 10px;
+  }
+  .saleimages {
+    padding-top: 33px;
+  }
+  .bb {
+    color: #D60000;
+    font-size: 20px;
+}
+.hovereffect h5 {
+ 
+  font-size: 17px;
+ 
+  
+  margin: 160px 0 0;
+}
+.hovereffect a.info {
+  margin: 37px 0 0;
+  padding: 7px 14px;
+}
+.hovereffect button {
+   
+  margin-top: 20px;
+ 
+  margin:37px 0 0;
+    padding:7px 14px;
+    font-size: x-small;
+}
+     /*---------------------home page----------------*/
+    }
+    
+    
+    
+    
+    @media only screen and  (min-width: 575px) and (max-width: 615px){
+      .navcenter1 {display: block;
+        text-align: center;}
+      
+      
+       
+        .searchbtn {
+          width: 100px;
+          height: 30px;
+          font-size: xx-small
+        }
+        
+      .searchform .form-control {
+        width: 250px;
+        height: 33px;
+       
+        margin-left: 5.1rem;
+    }
+    
+    .Footeremail button {
+     
+      width: 120px;
+      height: 33px;
+    
+    }
+    
+     /*------------------------------login page-------------------------*/
+     .middlelineforgetcreate{
+        padding-right: 15px;
+        padding-left: 0px;
+    }
+      
+    .label1 {
+      margin-bottom: 0;
+      font-size: smaller;
+    }
+       /*------------------------------ End login page-------------------------*/
+
+        /*------------------------------ start reset your password-------------------------*/
+        .shoelogopaddingloginre {
+              
+            font-size: 0.8rem;}
+          .hisize {
+            font-size: 2rem;
+        }
+            /*------------------------------ End reset your password-------------------------*/
+
+
+                  
+        /*------------------------------ start profile page-------------------------*/
+        .propic{object-fit: cover;
+          height: 180px;}
+          .infospace{padding-top: 20px;}
+          .infospace1{padding-top: 10px}
+           /*------------------------------ end profile page-------------------------*/
+    
+  /*------------------------------ start checkout page-------------------------*/
+            /*checkout form 3*/
+       .order-reviewimg{object-fit: cover;
+        height: 110px;}
+        .shoesize34line{display: none;}
+        .shippingline1{display: none;}
+        .hr1{display: none;}
+        .sub{font-size: smaller;}
+      /*------------------------------ end checkout page-------------------------*/
+
+  /*-------------------start aboutus page------------*/
+      .btntheme_01{
+        color: #fff;
+        background-color: rgb(255,0,0);
+        text-align: center;
+        margin-top:2px;
+        font-size: x-small;
+    }  
+      
+    .marginline1 {
+        margin-bottom: .2rem;
+        font-weight: 500;
+        line-height: 1.2;
+        font-size: 12px;
+    }
+    .aboutusmargin h1 {
+        font-size: 2rem;
+        margin-top: 90px;
+        margin-bottom: 5px;
+    }
+    .text_01{
+        margin-top: 7px;
+    }
+    .overlay_03 {
+        padding: 1rem;
+    }
+    .overlay_02 {
+      border: none;
+      background: rgba(121, 121, 121, 0.356);
+      height: 100%;
+      clip-path: none;
+      padding: 0;
+    }
+         /*-------------------end aboutus page------------*/   
+          /*-------start women men sale page-------*/
+      .filtershort{
+        padding-right: 110px;
+        padding-left: 110px;
+    }
+      .shoelineimg{
+        object-fit: cover;
+        height: 250px;
+      }
+      .card-deck .cardw {
+        margin-right: 70px;
+        margin-left: 70px;
+    }
+      
+    .overlay_wome {
+      border: none;
+      
+       height: 100%;
+       background-color: rgba(0,0,0,0.5);
+       clip-path:none;
+       padding: 0;
+      }
+      .aboutusmarginwome h1 {
+        margin-top: 150px;
+        margin-bottom: 3px;
+    }
+    .btngroupspace {
+      position: relative;
+     
+      display: inline-flex;
+      vertical-align: middle;
+      margin-top: 20px;
+    }
+    .displayfilter{display: none;}
+  
+    .btnsize{padding-top: 10px;}
+
+    
+  
+    .dropdown-menu {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      z-index: 1000;
+      display: none;
+      float: left;
+      min-width: 4rem;
+      padding: .5rem 0;
+      margin: .125rem 0 0;
+      font-size: 1rem;
+      color: #212529;
+      text-align: left;
+      list-style: none;
+      background-color: #fff;
+      background-clip: padding-box;
+      border: 1px solid rgba(0,0,0,.15);
+      border-radius: .25rem;
+  }
+    .dropdown-item {
+     
+      font-size: small;
+  }
+  .btnsize button{ font-size:small ;
+    border-radius: 0px;}
+     /*-------end women men sale page-------*/
+
+      /*------------------favorite-------------*/
+          
+      .saleimglastrow{object-fit: cover;
+        height: 230px; }
+        
+ .summersale h2 {
+  font-family: candara;
+  font-size: 3.3rem;
+  background: rgba(0, 0, 0, 0.466);
+  width: 378px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 15px;
+  
+ }
+.summersale h3 {font-weight: normal;
+font-size: 17px;
+}
+
+.size20{font-size: 1.8rem;}
+.btn-outline-light {
+  font-size: small;
+}
+  /*------------------favorite-------------*/
+
+    /*single product view page*/
+ 
+    .productviewdetails{margin-left: 15px;
+      margin-top: 15px;}
+  
+      .containerreview{padding-right: 30px;
+      padding-left: 30px;}
+      .viewonlyfoesmalldevices{display: none;}
+    /*single product view page*/
+    /*--------------------------home page-------------------*/
+    .card-deck .shoes-3 {
+      margin-right: 10px;
+      margin-left: 10px;
+  }
+    .topic { margin-top: 10px;
+      font-size: 2.4rem;}
+  
+  
+      .padsearch {padding-bottom: 47px;}
+     
+      
+      .padsearch h5 {
+        font-size: smaller;
+      }
+      
+      .padsearch p {
+      
+        font-size: x-small;
+        }
+      
+        .womenmenbtn {
+          width: 100px;
+          height: 30px;
+          font-size: 10px;
+          margin-bottom: 5px;
+          margin-right: 10px;
+    margin-left: 10px;
+      }
+  
+    
+      .cartt1 {
+        -ms-flex: 1 1 auto;
+        flex: 1 1 auto;
+        min-height: 1px;
+        padding: 1.25rem;
+        text-align: left;
+    }
+  
+    .cardimageho {
+      height: 180px;
+      object-fit: cover;
+  }
+  
+  .shoelineimg {
+    object-fit: cover;
+    height: 370px;
+  }
+  
+  .newarrivals {
+    font-size: 30px;}
+  
+   
+  
+  
+  .scaled{
+  
+    transform: scale(1,1); 
+  }
+  
+  .cardbodybg h3 {
+    font-size: 20px;
+    
+  }
+  
+  .imageline {
+    padding-top: 17px;
+  }
+  
+  .saleimages {
+    padding-top: 17px;
+  }
+  .scaled1{
+  
+    transform: scale(1,1); }
+  
+    .image8 {
+      height: 180px;
+      object-fit: cover;
+    }
+  
+  .image9 {
+    height: 180px;
+    object-fit: cover;
+  }
+  
+
+ 
+  .brandstrendy {
+    margin-bottom: 20px;
+  }
+  .effect1 img {
+    display: block;
+    position: relative;
+    -webkit-transition: all 0.35s;
+    transition: all 0.35s;
+    object-fit: cover;
+    height: 120px;
+  }
+  .colsm4{position: relative;
+      width: 100%;
+      padding-right: 0px;
+      padding-left: 15px;
+  }
+  
+  
+
+  .trending{padding-left: 4px;
+    padding-right: 4px;
+  }
+  .bb {
+  
+    font-size: 23px;
+}
+.hovereffect h5 {
+  
+  font-size: 13px;
+ 
+  margin: 146px 0 0;
+}
+.hovereffect a.info {
+  margin: 30px 0 0;
+  padding: 7px 14px;
+  font-size: xx-small;
+}
+.hovereffect h3 {
+ 
+  font-size: 10px;
+
+  padding: 10px;
+}
+
+.hovereffect h2 {
+  
+  font-size:10px;
+ 
+  padding:10px;
+  }
+  .hovereffect button {
+   
+    margin-top: 15px;
+   
+    margin:37px 0 0;
+      padding:7px 14px;
+      font-size: x-small;
+  }
+  .card-deck .cardshoe {
+    -ms-flex: 1 0 0%;
+    flex: 1 0 0%;
+    margin-right: 65px;
+    margin-bottom: 0;
+    margin-left: 65px;
+}
+/*---------------------home page-------------------*/
+    }
+    
+    
+  
+    @media only screen and (min-width: 400px) and (max-width: 575px){
+      .navcenter1 {display: block;
+        text-align: center;}
+        
+    
+        .searchbtn {
+          width: 100px;
+          height: 30px;
+          font-size: xx-small
+        }
+        
+    
+            .bethe {
+              font-size: 26px;
+          }
+          .bethe1 {
+            font-size: 1rem;}
+    
+            .cardimage {
+              height: 500px;
+              object-fit: cover;
+          }
+    
+          
+   
+      .searchform .form-control {
+        width: 217px;
+        height: 30px;
+       
+        margin-left: 4.1rem;
+    }
+    .Footeremail button {
+      width: 70px;
+      height: 30px;
+      font-size: xx-small;
+     }
+     .searchbaralign{padding-left: 20px;}
+    /*------------------------------login page-------------------------*/
+      
+    .everymargin{
+        
+        margin-bottom: 0.5rem;
+    
+}
+.middlelineforgetcreate{
+    padding-right: 15px;
+    padding-left: 0px;
+}
+   /*------------------------------ End login page-------------------------*/
+
+
+       
+  /*------------------------------ Start create an account page-------------------------*/
+
+.everymargincr{
+  
+margin-bottom: 0.5rem;
+
+}
+  /*------------------------------ End create an account page-------------------------*/
+
+  
+    /*------------------------------ start reset your password-------------------------*/
+
+.everymarginre{
+  
+margin-bottom: 0.5rem;
+
+}
+.hisize {
+font-size: 2rem;
+}
+        /*------------------------------ End reset your password-------------------------*/
+            /*------------------------------ start profile page-------------------------*/
+
+ 
+ .propic{object-fit: cover;
+  height: 180px;}
+  .infospace{padding-top: 20px;}
+.infospace1{padding-top: 10px}
+    /*------------------------------ end profile page-------------------------*/
+    
+ /*------------------------------ start checkout page-------------------------*/
+    
+         /*checkout form 3*/
+         .order-reviewimg{object-fit: cover;
+            height: 100px;}
+            .shoesize34line{display: none;}
+            .shippingline1{display: none;}
+            .hr1{display: none;}
+            .sub{font-size: smaller;}
+            
+      .imgnone{display: none;}
+      .imgcaptionnone{display: none;}
+       /*------------------------------ end checkout page-------------------------*/
+
+  /*-------------------start aboutus page------------*/
+       .btntheme_01{
+        color: #fff;
+        background-color: rgb(255,0,0);
+        text-align: center;
+        margin-top:0;
+        font-size: xx-small;
+    }
+     
+    .marginline1 {
+      margin-bottom: .2rem;
+      font-weight: 500;
+      line-height: 1.2;
+      font-size: 11.5px;
+    }
+    .aboutusmargin h1 {
+     
+      font-size: 2rem;
+      margin-top: 80px;
+      margin-bottom: 1px;
+    }
+    .text_01{
+        margin-top: 7px;
+    }
+    .overlay_03 {
+        padding: 0.5rem;
+    }
+    .overlay_02 {
+      border: none;
+      background: rgba(121, 121, 121, 0.356);
+      height: 100%;
+      clip-path: none;
+      padding: 0;
+    }
+    .cdimg_01{object-fit: cover;
+      height: 250px;}
+      .bgcard p{font-size: 13px;}
+      .bgcard h5{font-size: 18px;}
+      .bgcard a{font-size: 14px;}
+  
+    
+        /*-------------------end aboutus page------------*/
+         /*-------start women men sale page-------*/
+     .overlay_wome {
+      border: none;
+      
+       height: 100%;
+       background-color: rgba(0,0,0,0.5);
+       clip-path:none;
+       padding: 0;
+      }
+      .aboutusmarginwome h1 {
+        margin-top: 70px;
+        margin-bottom: 3px;
+    }
+    .btngroupspace {
+      position: relative;
+     
+      display: inline-flex;
+      vertical-align: middle;
+      margin-top: 8px;
+    }
+    .displayfilter{display: none;}
+    
+    .btnsize{padding-top: 10px;}
+
+    .dropdownmenu {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      z-index: 1000;
+      display: none;
+      float: left;
+      min-width: 4rem;
+      padding: .5rem 0;
+      margin: .125rem 0 0;
+      font-size: 1rem;
+      color: #212529;
+      text-align: left;
+      list-style: none;
+      background-color: #fff;
+      background-clip: padding-box;
+      border: 1px solid rgba(0,0,0,.15);
+      border-radius: .25rem;
+  }
+    .dropdown-item {
+     
+      font-size: small;
+  }
+  .btnsize button{ font-size:x-small ;
+    border-radius: 0px;}
+         /*-------end women men sale page-------*/
+
+           /*------------------favorite------------------*/
+           .redheart {
+            margin-left: 250px;
+            width: 13px;
+        }
+          
+      .saleimglastrow{object-fit: cover;
+        height: 175px; }
+        
+ .summersale h2 {
+  font-family: candara;
+  font-size: 2.1rem;
+  background: rgba(0, 0, 0, 0.466);
+  width: 180px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 5px;
+  
+ }
+.summersale h3 {display: none;
+
+}
+
+.size20{font-size: 1.8rem;}
+.btn-outline-light {
+  font-size: x-small;
+}
+    /*------------------favorite------------------*/   
+    
+        /*single product view page*/
+ .productviewdetails{margin-left: 15px;
+  margin-top: 15px;}
+  .containerreview{padding-right: 30px;
+    padding-left: 30px;}
+    .svg1{font-size: small;}
+    .viewonlyfoesmalldevices{display: none;}
+        /*single product view page*/
+
+
+        /*------------------home page--------------------*/
+        .card-deck .shoes-3 {
+          margin-right: 0px;
+          margin-left: 0px;
+      }
+        
+    .topic { margin-top: 10px;
+      font-size: 1.5rem;}
+  
+  
+      .padsearch {
+        padding-bottom: 47px;
+    }
+     
+      
+      .padsearch h5 {
+        font-size: x-small;
+      }
+      
+      .padsearch p {
+      
+        font-size: xx-small;
+        }
+      
+        .womenmenbtn {
+          width: 90px;
+          height: 25px;
+          font-size: 8px;
+          margin-bottom: 3px;
+          margin-right: 5px;
+    margin-left: 5px;
+      }
+  
+      .slideshowimage{height: 300px;
+        object-fit: cover;}
+  
+  
+  
+          .bethe {
+            font-size: 26px;
+        }
+        .bethe1 {
+          font-size: 1rem;}
+          .cardimageho {
+            height: 300px;
+            object-fit: cover;
+        }
+  
+        .scaled {
+          transform: scale(0.9,0.7);
+      }
+        .imageline {
+          padding-top: 0px;
+      }
+      .cardbodybg h3 {
+        font-size: 67px;
+        
+    }
+   
+  .slideshowimage{height: 300px;
+    object-fit: cover;
+   }
+  
+   .newarrivals {
+    font-size: 1.9rem;}
+ 
+  
+   .image8 {
+ 
+    object-fit: cover;
+  }
+  .image9 {
+  
+    object-fit: cover;
+  }
+  .container12 {
+    width: 85%;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .card-deck .cardshoe {
+    -ms-flex: 1 0 0%;
+    flex: 1 0 0%;
+    margin-right: 35px;
+    margin-bottom: 0;
+    margin-left: 35px;
+}
+ 
+  
+  .hovereffect h5 {
+    
+    font-size: 25px;
+    
+    padding: 10px;
+    margin: 290px 0 0;
+}
+
+.saleimg-displayenonesmalldevices1{display: none;}
+/*---------------------------home page---------------------*/
+    }
+     
+     @media only screen and (max-width: 400px){
+      .navcenter1 {display: block;
+        text-align: center;}
+       
+    
+    
+    
+    
+       
+        .searchbtn {
+          width: 100px;
+          height: 30px;
+          font-size: xx-small
+        }
+        
+    
+          
+    
+            .searchform .form-control {
+              width: 210px;
+              height: 32px;
+              margin-left: 3.2rem;
+            }
+    
+             
+            .bethe {
+              font-size: 26px;
+          }
+          .bethe1 {
+            font-size: 1rem;}
+    
+           
+    
+      .Footeremail button {
+        width: 80px;
+        height: 32px;
+        font-size: xx-small;
+        margin-left: 3.3rem;
+    }
+     /*------------------------------login page-------------------------*/
+     .middlelineforgetcreate{
+        padding-right: 15px;
+        padding-left: 0px;
+    }
+    .everymargin{
+        
+            margin-bottom: 0.3rem;
+        
+    }
+ /*------------------------------ End login page-------------------------*/
+
+/*------------------------------Start login page-------------------------*/
+  
+  .everymargincr{
+      
+    margin-bottom: 0.3rem;
+
+}
+/*------------------------------End login page-------------------------*/
+
+
+    /*------------------------------ start reset your password-------------------------*/
+    .everymarginre{
+      
+        margin-bottom: 0.3rem;
+    
+}
+.hisize {
+  font-size: 1.8rem;
+}
+        /*------------------------------ End reset your password-------------------------*/
+            
+ /*------------------------------ start profile page-------------------------*/
+ 
+ .propic{object-fit: cover;
+  height: 100px;}
+  .infospace{padding-top: 20px;}
+.infospace1{padding-top: 5px}
+ /*------------------------------ end profile page-------------------------*/
+
+
+ /*------------------------------ start checkout page-------------------------*/
+  /*checkout form 3*/
+
+  .imgnone{display: none;}
+  .imgcaptionnone{display: none;}
+  .shoesize34line{display: none;}
+  .shippingline1{display: none;}
+  .hr1{display: none;}
+  .smallthefont{font-size: small;}
+   /*------------------------------ end checkout page-------------------------*/
+    
+
+/*-------------------start aboutus page------------*/
+   .btntheme_01{
+    color: #fff;
+    background-color: rgb(255,0,0);
+    text-align: center;
+    margin-top:0;
+    font-size: xx-small;
+} 
+
+
+.marginline1 {
+  margin-bottom: .2rem;
+  font-weight: 500;
+  line-height: 1.2;
+  font-size: 10px;
+}
+.aboutusmargin h1 {
+  font-size: 1.7rem;
+  margin-top: 50px;
+  margin-bottom: 1px;
+}
+.text_01{
+    margin-top: 7px;
+}
+.overlay_03 {
+    padding: 0.5rem;
+}
+.overlay_02 {
+  border: none;
+  background: rgba(121, 121, 121, 0.356);
+  height: 100%;
+  clip-path: none;
+  padding: 0;
+}
+.cdimg_01{object-fit: cover;
+  height: 200px;}
+  .bgcard p{font-size: 13px;}
+  .bgcard h5{font-size: 16px;}
+  .bgcard a{font-size: 12px;}
+  /*-------------------end aboutus page------------*/
+
+/*--------contact us--------*/
+  .contactusformheading{
+  font-size: 1.7rem;}
+  
+/*--------contact us--------*/
+
+        /*-------start women men sale page-------*/
+        .shoelineimg{
+          object-fit: cover;
+          height: 180px;
+        }
+  
+      .overlay_wome {
+        border: none;
+        
+         height: 100%;
+         background-color: rgba(0,0,0,0.5);
+         clip-path:none;
+         padding: 0;
+        }
+        .aboutusmarginwome h1 {
+          margin-top: 0px;
+          margin-bottom: 1px;
+      }
+      .marginline1wome {
+        font-size: 0.8rem;}
+      .btngroupspace {
+        position: relative;
+       
+        display: inline-flex;
+        vertical-align: middle;
+        margin-top: 3px;
+      }
+      .displayfilter{display: none;}
+      
+      .btnsize{padding-top: 10px;}
+      .dropdown-menu {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        z-index: 1000;
+        display: none;
+        float: left;
+        min-width: 4rem;
+        padding: .5rem 0;
+        margin: .125rem 0 0;
+        font-size: 1rem;
+        color: #212529;
+        text-align: left;
+        list-style: none;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 1px solid rgba(0,0,0,.15);
+        border-radius: .25rem;
+    }
+      .dropdown-item {
+       
+        font-size: x-small;
+    }
+    .btnsize button{ font-size:x-small ;
+      border-radius: 0px;}
+             /*-------end women men sale page-------*/
+
+              /*-----------------favorite------------------*/
+              .redheart {
+                margin-left: 150px;
+                width: 13px;
+            }
+
+      .saleimglastrow{object-fit: cover;
+        height: 150px; }
+        
+ .summersale h2 {
+  font-family: candara;
+  font-size: 2.1rem;
+  background: rgba(0, 0, 0, 0.466);
+  width: 180px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+ }
+.summersale h3 {display: none;
+
+}
+
+.size20{font-size: 1.8rem;}
+.btn-outline-light {
+  font-size: x-small;
+}
+  /*-----------------favorite------------------*/
+
+   /*single product view page*/
+ .productviewdetails{margin-left: 15px;
+  margin-top: 15px;}
+  .containerreview{padding-right: 30px;
+    padding-left: 30px;}
+    .svg1{font-size: small;}
+    .spanspan{margin-left: 40px;}
+    .viewonlyfoesmalldevices{display: inline-flex;
+    margin-left: 1px;}
+    
+    .spanspan1{display: none;}
+     /*single product view page*/
+
+     /*----------------------home page-------------------*/
+     
+     .card-deck .shoes-3 {
+      margin-right: 0px;
+      margin-left: 0px;
+  }
+    
+    .topic { margin-top: 10px;
+      font-size: 1.5rem;}
+  
+  
+      .padsearch {
+        padding-bottom: 47px;
+    }
+     
+      .padsearch h5 {
+        font-size: x-small;
+      }
+      
+      .padsearch p {
+      
+        font-size: xx-small;
+        }
+      
+        .womenmenbtn {
+          width: 90px;
+          height: 25px;
+          font-size: 8px;
+          margin-bottom: 3px;
+          margin-right: 5px;
+          margin-left: 5px;
+      }
+  
+      .slideshowimage{height: 300px;
+        object-fit: cover;}
+  
+
+           
+          .bethe {
+            font-size: 26px;
+        }
+        .bethe1 {
+          font-size: 1rem;}
+  
+          .cardimageho {
+            height: 300px;
+            object-fit: cover;
+        }
+  
+          .scaled{
+  
+            transform: scale(0.90,0.57); 
+          
+        }
+  
+        .imageline {
+          padding-top: 0px;
+      }
+      .cardbodybg h3 {
+        font-size: 50px;
+        
+    }
+    
+  .slideshowimage{height: 300px;
+    object-fit: cover;
+   }
+  
+   .newarrivals {
+    font-size: 1.9rem;}
+
+  .saleimg-displayenonesmalldevices1{display: none;}
+  
+     /*----------------------home page-------------------*/
+     
+}
+     
+   
